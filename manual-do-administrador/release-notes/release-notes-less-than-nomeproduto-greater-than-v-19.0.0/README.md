@@ -2,3 +2,7 @@
 
 ## **Versão 19.0.0 - 03/2025**
 
+
+### **Melhorias**
+
+1. [Documentation_En](documentation_en.md)
