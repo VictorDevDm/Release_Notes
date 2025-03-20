@@ -6,3 +6,4 @@
 ### **Novidades**
 
 1. [Documentation_Pt](documentation_pt.md)
+2. [Documentation_Es](documentation_es.md)
