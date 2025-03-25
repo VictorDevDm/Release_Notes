@@ -5,4 +5,4 @@
 
 ### **Melhorias**
 
-1. [Visualização do Total de Licenças no Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Visualização do Total de Licenças no Portal.md)
+1. [Visualização do Total de Licenças no Portal](Visualização do Total de Licenças no Portal.md)
