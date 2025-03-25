@@ -1,5 +1,0 @@
-# Acesso Remoto com App Remote View no Android
-
-**ID da US: US-NPD-7635**
-
-**Descrição:** O app Remote View facilita o acesso remoto ao seu dispositivo Android diretamente pelo portal. Assim que seu dispositivo é registrado e o <NomeProduto> é ativado, o app automaticamente configura a conexão com o Mesh Central usando uma URL específica. Se algum problema ocorrer, você receberá mensagens de erro explicativas. A conexão pode ser iniciada tanto pelo app quanto pelo portal, e você receberá notificações no dispositivo para confirmar a ação. Depois de conectado, o app pode pedir permissão para compartilhar sua tela, e a transmissão só começa após você aprovar essa solicitação.
