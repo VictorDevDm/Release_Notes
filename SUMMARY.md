@@ -3,3 +3,4 @@
     * [App Remote View](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/App-Remote-View.md)
     * [Desabilitar Configurações Na Tela De Bloqueio No Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Desabilitar-Configurações-Na-Tela-De-Bloqueio-No-Work-Profile.md)
     * [Captura De Tela No Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Captura-De-Tela-No-Work-Profile.md)
+    * [Configurações De Segurança No Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Configurações-De-Segurança-No-Work-Profile.md)
