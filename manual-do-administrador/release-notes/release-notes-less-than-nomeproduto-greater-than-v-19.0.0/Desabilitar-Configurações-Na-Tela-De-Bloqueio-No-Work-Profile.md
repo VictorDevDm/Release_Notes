@@ -1,5 +1,5 @@
-# Desativar Configurações da Tela de Bloqueio no Work Profile
+# Desabilitar Configurações na Tela de Bloqueio no Work Profile
 
-**ID: US-NPD-7730**
+**ID da US:** **US-NPD-7730**
 
-Descrição: Agora, no portal, você pode desativar certas configurações da tela de bloqueio do Work Profile através da aba "Configurações" na política "Android - Work Profile". Isso oferece mais controle sobre o perfil de trabalho no seu dispositivo. Quando você salva a política, as mudanças são enviadas automaticamente para os dispositivos conectados, garantindo que as configurações continuem funcionando como de costume.
+**Descrição:** No portal, agora é possível desligar certas configurações na tela de bloqueio para perfis de trabalho. Para isso, basta ir até a aba "Configurações" dentro da política "Android - Work Profile" e ajustar as opções dentro de "Tela de Bloqueio". Depois de salvar a política, as mudanças são aplicadas automaticamente aos dispositivos conectados, tornando mais simples o gerenciamento do perfil de trabalho.
