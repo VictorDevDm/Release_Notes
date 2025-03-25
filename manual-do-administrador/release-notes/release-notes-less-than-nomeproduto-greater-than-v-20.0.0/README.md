@@ -6,3 +6,4 @@
 ### **Melhorias**
 
 1. [Documentation_Pt](documentation_pt.md)
+2. [Documentation_En](documentation_en.md)
