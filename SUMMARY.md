@@ -1,7 +1,4 @@
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
-  * [Release Notes \<NomeProduto> V 18.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
-    * [Notificação De Desconexão Do Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/Notificação-De-Desconexão-Do-Dispositivo.md)
-    * [Desativação Do Envio De Localização](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/Desativação-Do-Envio-De-Localização.md)
   * [Release Notes \<NomeProduto> V 20.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Total De Licenças Em Portal Com Licenças Híbridas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-De-Licenças-Em-Portal-Com-Licenças-Híbridas.md)
     * [Licenças Não Instaladas Em Portal Com Licenças Híbridas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Licenças-Não-Instaladas-Em-Portal-Com-Licenças-Híbridas.md)
