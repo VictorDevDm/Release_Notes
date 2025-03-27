@@ -1,4 +1,6 @@
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 20.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
+    * [Total De Licenças Em Portal Com Licenças Híbridas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-De-Licenças-Em-Portal-Com-Licenças-Híbridas.md)
   * [Release Notes \<NomeProduto> V 19.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
     * [App Remote View](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/App-Remote-View.md)
     * [Desabilitar Configurações Na Tela De Bloqueio No Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Desabilitar-Configurações-Na-Tela-De-Bloqueio-No-Work-Profile.md)
