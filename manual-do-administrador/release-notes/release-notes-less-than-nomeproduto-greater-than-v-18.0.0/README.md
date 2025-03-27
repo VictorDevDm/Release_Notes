@@ -6,3 +6,4 @@
 ### **Novidades**
 
 1. [Notificação de Dispositivos Desconectados](Notificação-De-Dispositivos-Desconectados.md)
+2. [Termo de Uso da Empresa no Portal](Termo-De-Uso-Da-Empresa-No-Portal.md)
