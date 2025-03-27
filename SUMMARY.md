@@ -2,6 +2,7 @@
   * [Release Notes \<NomeProduto> V 20.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Total De Licenças Em Portal Com Licenças Híbridas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-De-Licenças-Em-Portal-Com-Licenças-Híbridas.md)
     * [Licenças Não Instaladas Em Portal Com Licenças Híbridas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Licenças-Não-Instaladas-Em-Portal-Com-Licenças-Híbridas.md)
+    * [Criação De Multi Empresas Na Integração Claro Bundle](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Criação-De-Multi-Empresas-Na-Integração-Claro-Bundle.md)
   * [Release Notes \<NomeProduto> V 19.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
     * [App Remote View](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/App-Remote-View.md)
     * [Desabilitar Configurações Na Tela De Bloqueio No Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Desabilitar-Configurações-Na-Tela-De-Bloqueio-No-Work-Profile.md)
