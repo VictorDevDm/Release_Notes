@@ -6,3 +6,4 @@
 ### **Melhorias**
 
 1. [Total de Licenças em Portal com Licenças Híbridas](Total-De-Licenças-Em-Portal-Com-Licenças-Híbridas.md)
+2. [Licenças Não Instaladas em Portal com Licenças Híbridas](Licenças-Não-Instaladas-Em-Portal-Com-Licenças-Híbridas.md)
