@@ -17,3 +17,4 @@
     * [Captura De Tela No Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Captura-De-Tela-No-Work-Profile.md)
     * [Configurações De Segurança No Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Configurações-De-Segurança-No-Work-Profile.md)
     * [Configuração De Consentimento Do Usuário Do Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Configuração-De-Consentimento-Do-Usuário-Do-Dispositivo.md)
+    * [Controle De Captura De Tela No Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Controle-De-Captura-De-Tela-No-Work-Profile.md)
