@@ -1,4 +1,6 @@
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 17.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/README.md)
+    * [Reinício Automático De Serviços Do App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/Reinício-Automático-De-Serviços-Do-App.md)
   * [Release Notes \<NomeProduto> V 18.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
     * [Notificação De Dispositivos Desconectados](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/Notificação-De-Dispositivos-Desconectados.md)
     * [Termo De Uso Da Empresa No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/Termo-De-Uso-Da-Empresa-No-Portal.md)
