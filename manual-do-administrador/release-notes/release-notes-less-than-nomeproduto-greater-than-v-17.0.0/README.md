@@ -6,3 +6,7 @@
 ### **Correções**
 
 1. [Reinício Automático de Serviços do App](Reinício-Automático-De-Serviços-Do-App.md)
+
+### **Novidades**
+
+1. [Migração de Políticas do Standard para o Enterprise](Migração-De-Políticas-Do-Standard-Para-O-Enterprise.md)
