@@ -2,3 +2,7 @@
 
 ## **Versão 18.0.0 - 03/2025**
 
+
+### **Novidades**
+
+1. [Notificação de Desconexão de Dispositivos](Notificação-De-Desconexão-De-Dispositivos.md)
