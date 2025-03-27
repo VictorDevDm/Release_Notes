@@ -10,6 +10,7 @@
 
 3. [Configurações de Segurança no Work Profile](Configurações-De-Segurança-No-Work-Profile.md)
 4. [Configuração de Consentimento do Usuário do Dispositivo](Configuração-De-Consentimento-Do-Usuário-Do-Dispositivo.md)
+5. [Controle de Captura de Tela no Work Profile](Controle-De-Captura-De-Tela-No-Work-Profile.md)
 ### **Melhorias**
 
 1. [Captura de Tela no Work Profile](Captura-De-Tela-No-Work-Profile.md)
