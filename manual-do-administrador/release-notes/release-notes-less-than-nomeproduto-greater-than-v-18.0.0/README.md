@@ -7,3 +7,4 @@
 
 1. [Notificação de Dispositivos Desconectados](Notificação-De-Dispositivos-Desconectados.md)
 2. [Termo de Uso da Empresa no Portal](Termo-De-Uso-Da-Empresa-No-Portal.md)
+3. [Configuração de Política Intel AMT no Windows](Configuração-De-Política-Intel-Amt-No-Windows.md)
