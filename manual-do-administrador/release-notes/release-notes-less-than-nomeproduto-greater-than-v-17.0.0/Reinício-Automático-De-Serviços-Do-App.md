@@ -2,4 +2,4 @@
 
 **ID da US: US-NPD-8126**
 
-Descrição: No aplicativo, se o dispositivo perder a conexão, os serviços serão reiniciados automaticamente para garantir que tudo continue funcionando sem problemas. Um comando chamado START_SERVICES será enviado ao dispositivo para restabelecer a comunicação. Se, por algum motivo, a conexão não for restabelecida em uma hora, o comando será enviado novamente. Isso assegura que o aplicativo continue operando sem interrupções, mesmo que ocorram falhas temporárias na comunicação.
+O app agora possui uma funcionalidade que garante que seus serviços sejam reiniciados automaticamente para manter a comunicação sempre ativa. Se o dispositivo perder a conexão com a rede, o sistema envia um comando para reiniciar esses serviços. Se a comunicação não for restabelecida dentro de 1 hora, o comando será enviado novamente, garantindo que o app continue funcionando sem interrupções.
