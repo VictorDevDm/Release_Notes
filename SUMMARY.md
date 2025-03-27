@@ -1,6 +1,7 @@
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 18.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
     * [Notificação De Dispositivos Desconectados](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/Notificação-De-Dispositivos-Desconectados.md)
+    * [Termo De Uso Da Empresa No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/Termo-De-Uso-Da-Empresa-No-Portal.md)
   * [Release Notes \<NomeProduto> V 20.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Total De Licenças Em Portal Com Licenças Híbridas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-De-Licenças-Em-Portal-Com-Licenças-Híbridas.md)
     * [Licenças Não Instaladas Em Portal Com Licenças Híbridas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Licenças-Não-Instaladas-Em-Portal-Com-Licenças-Híbridas.md)
