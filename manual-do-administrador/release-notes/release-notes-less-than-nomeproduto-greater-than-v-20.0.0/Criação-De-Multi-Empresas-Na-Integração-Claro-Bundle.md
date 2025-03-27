@@ -1,0 +1,5 @@
+# Gestão de Múltiplas Empresas para Administradores na Integração Claro Bundle
+
+**ID da US: US-NPD-8576**
+
+Descrição: No portal, a Claro oferece aos administradores a capacidade de gerenciar várias empresas utilizando um único login. Isso significa que um administrador pode acessar e controlar todas as suas empresas de forma centralizada. Quando necessário, o sistema é capaz de criar uma nova empresa ou vincular uma já existente, dependendo se há um CNPJ e usuário cadastrados. Caso um usuário não participe de uma ativação de licença, ele pode ser desativado ou desvinculado da empresa, de acordo com o tipo de associação que possui. A integração também permite reativar usuários que foram desativados, associando-os novamente às suas empresas e enviando um e-mail de boas-vindas com um link para que possam redefinir sua senha.
