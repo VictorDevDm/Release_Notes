@@ -1,5 +1,5 @@
-# Visualização do Total de Licenças no Portal
+# Total de Licenças em Portal com Licenças Híbridas
 
-**ID da US: US-NPD-8527**
+**ID: US-NPD-8527**
 
-Descrição: No portal, usuários que têm permissões administrativas ou de suporte conseguem ver quantas licenças a empresa comprou. Quando acessam o painel chamado "TOTAL DE LICENÇAS CONTRATADAS", o sistema mostra a soma total dessas licenças, que é calculada com base nas informações registradas na coluna "bought" da tabela de licenças. Isso ajuda a ter uma visão clara e instantânea de quantas licenças estão disponíveis para a empresa.
+No portal, usuários com perfil de administrador ou suporte podem acessar o dashboard chamado "TOTAL DE LICENÇAS CONTRATADAS" para ver quantas licenças foram adquiridas. O sistema mostra essas informações com base nos dados já registrados, ajudando as empresas a controlarem suas licenças de maneira eficiente.
