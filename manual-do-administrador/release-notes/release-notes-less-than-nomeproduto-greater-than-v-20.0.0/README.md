@@ -12,6 +12,7 @@
 4. [Total de Licenças em Portal com Licenças Híbridas](Total-De-Licenças-Em-Portal-Com-Licenças-Híbridas.md)
 5. [Exibição de Licenças Não Instaladas no Portal](Exibição-De-Licenças-Não-Instaladas-No-Portal.md)
 6. [Gerenciamento de Multi Empresas na Integração Claro Bundle](Gerenciamento-De-Multi-Empresas-Na-Integração-Claro-Bundle.md)
+7. [Criação de Multi Empresas na Integração Vivo](Criação-De-Multi-Empresas-Na-Integração-Vivo.md)
 ### **Melhorias1234**
 
 1. [Criação de Multi Empresas na Integração da Vivo](Criação-De-Multi-Empresas-Na-Integração-Da-Vivo.md)
