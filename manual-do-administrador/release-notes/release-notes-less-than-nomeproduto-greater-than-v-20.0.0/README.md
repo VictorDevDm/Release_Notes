@@ -12,3 +12,7 @@
 ### **Melhorias1234**
 
 1. [Criação de Multi Empresas na Integração da Vivo](Criação-De-Multi-Empresas-Na-Integração-Da-Vivo.md)
+
+### **Novidades**
+
+1. [Bloqueio de Apps por Velocidade no Portal](Bloqueio-De-Apps-Por-Velocidade-No-Portal.md)
