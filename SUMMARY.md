@@ -15,6 +15,7 @@
     * [Exibição De Licenças Não Instaladas No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Exibição-De-Licenças-Não-Instaladas-No-Portal.md)
     * [Gerenciamento De Multi Empresas Na Integração Claro Bundle](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Gerenciamento-De-Multi-Empresas-Na-Integração-Claro-Bundle.md)
     * [Criação De Multi Empresas Na Integração Vivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Criação-De-Multi-Empresas-Na-Integração-Vivo.md)
+    * [Gestão De Multi Empresas Na Integração Telcel](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Gestão-De-Multi-Empresas-Na-Integração-Telcel.md)
   * [Release Notes \<NomeProduto> V 19.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
     * [App Remote View](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/App-Remote-View.md)
     * [Desabilitar Configurações Na Tela De Bloqueio No Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Desabilitar-Configurações-Na-Tela-De-Bloqueio-No-Work-Profile.md)
