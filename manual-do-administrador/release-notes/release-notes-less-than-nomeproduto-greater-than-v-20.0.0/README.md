@@ -14,6 +14,7 @@
 6. [Gerenciamento de Multi Empresas na Integração Claro Bundle](Gerenciamento-De-Multi-Empresas-Na-Integração-Claro-Bundle.md)
 7. [Criação de Multi Empresas na Integração Vivo](Criação-De-Multi-Empresas-Na-Integração-Vivo.md)
 8. [Gestão de Multi Empresas na Integração Telcel](Gestão-De-Multi-Empresas-Na-Integração-Telcel.md)
+9. [Criação de Multi Empresas para Administradores](Criação-De-Multi-Empresas-Para-Administradores.md)
 ### **Melhorias1234**
 
 1. [Criação de Multi Empresas na Integração da Vivo](Criação-De-Multi-Empresas-Na-Integração-Da-Vivo.md)
