@@ -6,3 +6,4 @@
 ### **Novidades**
 
 1. [Bloqueio de Apps por Velocidade](Bloqueio-De-Apps-Por-Velocidade.md)
+2. [Bloqueio de Apps por Velocidade](Bloqueio-De-Apps-Por-Velocidade.md)
