@@ -22,3 +22,4 @@
 ### **Novidades**
 
 1. [Bloqueio de Apps por Velocidade no Portal](Bloqueio-De-Apps-Por-Velocidade-No-Portal.md)
+2. [Acesso Multi Empresas no Portal](Acesso-Multi-Empresas-No-Portal.md)
