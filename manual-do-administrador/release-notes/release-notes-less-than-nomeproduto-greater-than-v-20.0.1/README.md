@@ -12,3 +12,4 @@
 ### **Correções**
 
 1. [Exibição do Total de Licenças no Portal](Exibição-Do-Total-De-Licenças-No-Portal.md)
+2. [Visão Geral de Licenças Não Instaladas no Portal](Visão-Geral-De-Licenças-Não-Instaladas-No-Portal.md)
