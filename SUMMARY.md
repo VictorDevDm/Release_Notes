@@ -9,6 +9,7 @@
     * [Criação De Multi Empresas Para Administrador Na Claro Colombia](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Criação-De-Multi-Empresas-Para-Administrador-Na-Claro-Colombia.md)
     * [Acesso Multi Empresas No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Acesso-Multi-Empresas-No-Portal.md)
     * [Auditoria De Ações Em Múltiplas Empresas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Auditoria-De-Ações-Em-Múltiplas-Empresas.md)
+    * [Criação De Multi Empresas No Portal Da Operadora](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Criação-De-Multi-Empresas-No-Portal-Da-Operadora.md)
   * [Release Notes \<NomeProduto> V 17.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/README.md)
     * [Reinício Automático De Serviços Do App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/Reinício-Automático-De-Serviços-Do-App.md)
     * [Migração De Políticas Do Standard Para O Enterprise](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/Migração-De-Políticas-Do-Standard-Para-O-Enterprise.md)
