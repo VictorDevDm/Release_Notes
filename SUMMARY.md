@@ -4,6 +4,7 @@
     * [Exibição Do Total De Licenças No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Exibição-Do-Total-De-Licenças-No-Portal.md)
     * [Visão Geral De Licenças Não Instaladas No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Visão-Geral-De-Licenças-Não-Instaladas-No-Portal.md)
     * [Criação De Multi Empresas Na Integração Claro Bundle](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Criação-De-Multi-Empresas-Na-Integração-Claro-Bundle.md)
+    * [Criação De Multi Empresas Na Integração Vivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Criação-De-Multi-Empresas-Na-Integração-Vivo.md)
   * [Release Notes \<NomeProduto> V 17.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/README.md)
     * [Reinício Automático De Serviços Do App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/Reinício-Automático-De-Serviços-Do-App.md)
     * [Migração De Políticas Do Standard Para O Enterprise](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/Migração-De-Políticas-Do-Standard-Para-O-Enterprise.md)
