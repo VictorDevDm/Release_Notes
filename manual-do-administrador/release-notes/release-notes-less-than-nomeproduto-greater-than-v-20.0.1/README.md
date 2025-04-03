@@ -11,6 +11,7 @@
 
 4. [Acesso Multi-Empresas no Portal](Acesso-Multi-Empresas-No-Portal.md)
 5. [Auditoria de Ações em Múltiplas Empresas](Auditoria-De-Ações-Em-Múltiplas-Empresas.md)
+6. [Criação de Multi Empresas no Portal da Operadora](Criação-De-Multi-Empresas-No-Portal-Da-Operadora.md)
 ### **Correções**
 
 1. [Exibição do Total de Licenças no Portal](Exibição-Do-Total-De-Licenças-No-Portal.md)
