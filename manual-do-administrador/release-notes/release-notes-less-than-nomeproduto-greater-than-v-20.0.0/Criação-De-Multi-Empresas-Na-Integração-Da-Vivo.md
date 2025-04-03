@@ -1,5 +1,5 @@
-# Criação de Multi Empresas na Integração Vivo
+# Criação de Multi Empresas na Integração da Vivo
 
 **ID da US: US-NPD-8577**
 
-No portal, a Vivo pode configurar várias empresas para um único administrador, permitindo que ele gerencie todas elas com um único login. Isso facilita o gerenciamento e a administração das licenças. Caso uma licença específica não exista e não haja uma empresa registrada com o mesmo CNPJ fornecido, uma nova empresa será criada. Se a empresa já estiver registrada, o administrador pode ser associado a ela, contanto que ainda não esteja vinculado.
+Descrição: No portal, administradores da Vivo têm a capacidade de criar e gerenciar várias empresas com um único login. Quando uma licença é processada e não está ligada a nenhuma empresa já existente, o sistema automaticamente cria uma nova empresa. Se a empresa já estiver no sistema, a licença é associada ao usuário que possui o mesmo e-mail, o que permite que as empresas sejam gerenciadas de forma unificada e simplificada.
